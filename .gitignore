@@ -1,0 +1,4 @@
+venv
+sessions.parquet
+spark-warehouse
+__pycache__
